@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-@import Segment;
+@import VYBZSegment;
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

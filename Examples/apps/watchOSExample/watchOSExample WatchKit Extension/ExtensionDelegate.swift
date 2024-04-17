@@ -6,7 +6,7 @@
 //
 
 import WatchKit
-import Segment
+import VYBZSegment
 
 class ExtensionDelegate: NSObject, WKExtensionDelegate {
     var analytics: Analytics? = nil

@@ -1,5 +1,5 @@
 import XCTest
-@testable import Segment
+@testable import VYBZSegment
 
 final class Analytics_Tests: XCTestCase {
     

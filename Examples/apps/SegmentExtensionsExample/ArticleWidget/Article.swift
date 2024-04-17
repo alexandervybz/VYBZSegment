@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Segment
+import VYBZSegment
 
 struct Article {
     let title: String

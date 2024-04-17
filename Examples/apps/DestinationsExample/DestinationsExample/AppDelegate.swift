@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Segment
+import VYBZSegment
 import SegmentAmplitude
 import SegmentAppsFlyer
 import SegmentFacebook

@@ -7,7 +7,7 @@
 
 import WatchKit
 import Foundation
-import Segment
+import VYBZSegment
 
 
 class InterfaceController: WKInterfaceController {

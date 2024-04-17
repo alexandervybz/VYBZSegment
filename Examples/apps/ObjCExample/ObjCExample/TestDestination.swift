@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Segment
+import VYBZSegment
 
 @objc(SEGTestDestination)
 public class ObjCTestDestination: NSObject, ObjCPlugin, ObjCPluginShim {

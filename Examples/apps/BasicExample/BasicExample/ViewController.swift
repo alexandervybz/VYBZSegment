@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Segment
+import VYBZSegment
 
 class ViewController: UIViewController {
     var analytics: Analytics? {

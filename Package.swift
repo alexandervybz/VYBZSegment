@@ -35,7 +35,7 @@ let package = Package(
             ],
             resources: [.process("Resources")]),
         .testTarget(
-            name: "VYBZSegment-Tests",
+            name: "Segment-Tests",
             dependencies: ["VYBZSegment"]),
     ]
 )

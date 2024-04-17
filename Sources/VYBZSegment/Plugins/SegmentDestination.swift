@@ -183,7 +183,7 @@ extension SegmentDestination {
                     
                     // we don't want to retry events in a given batch when a 400
                     // response for malformed JSON is returned
-                case .failure(Segment.HTTPClientErrors.statusCode(code: 400)):
+                case .failure(VYBZSegment.HTTPClientErrors.statusCode(code: 400)):
                     storage.remove(data: [url])
                     cleanupUploads()
                 default:
@@ -247,7 +247,7 @@ extension SegmentDestination {
                     
                     // we don't want to retry events in a given batch when a 400
                     // response for malformed JSON is returned
-                case .failure(Segment.HTTPClientErrors.statusCode(code: 400)):
+                case .failure(VYBZSegment.HTTPClientErrors.statusCode(code: 400)):
                     storage.remove(data: removable)
                     cleanupUploads()
                 default:

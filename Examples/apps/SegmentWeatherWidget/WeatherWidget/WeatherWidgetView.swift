@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import Segment
+import VYBZSegment
 
 struct WeatherView: View {
     let weather: Weather

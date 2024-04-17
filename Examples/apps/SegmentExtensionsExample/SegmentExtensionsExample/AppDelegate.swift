@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Segment
+import VYBZSegment
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {

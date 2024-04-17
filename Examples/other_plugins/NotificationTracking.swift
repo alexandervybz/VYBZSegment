@@ -36,7 +36,7 @@
 #if !os(Linux) && !os(macOS)
 
 import Foundation
-import Segment
+import VYBZSegment
 
 class NotificationTracking: Plugin {
     var type: PluginType = .utility

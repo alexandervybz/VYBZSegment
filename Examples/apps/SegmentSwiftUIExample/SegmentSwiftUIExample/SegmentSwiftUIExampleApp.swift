@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import Segment
+import VYBZSegment
 
 @main
 struct SegmentSwiftUIExampleApp: App {

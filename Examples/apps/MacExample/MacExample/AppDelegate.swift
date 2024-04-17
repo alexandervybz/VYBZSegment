@@ -6,7 +6,7 @@
 //
 
 import Cocoa
-import Segment
+import VYBZSegment
 
 @main
 class AppDelegate: NSObject, NSApplicationDelegate {

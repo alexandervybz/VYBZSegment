@@ -30,7 +30,7 @@
 // SOFTWARE.
 
 import Foundation
-import Segment
+import VYBZSegment
 
 class InjectTraits: Plugin {
     let type = PluginType.enrichment

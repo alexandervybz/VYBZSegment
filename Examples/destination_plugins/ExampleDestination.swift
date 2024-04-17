@@ -34,7 +34,7 @@
 // SOFTWARE.
 
 import Foundation
-import Segment
+import VYBZSegment
 //import ExampleModule // TODO: Import partner SDK module here
 
 /**

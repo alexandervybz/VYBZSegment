@@ -7,7 +7,7 @@
 
 import XCTest
 import JSONSafeEncoder
-@testable import Segment
+@testable import VYBZSegment
 
 struct Personal: Codable {
     let preferences: [String]

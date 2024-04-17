@@ -6,7 +6,7 @@
 //
 
 import XCTest
-@testable import Segment
+@testable import VYBZSegment
 
 class KeyPath_Tests: XCTestCase {
     let baseDictionary: [String: Any] = [

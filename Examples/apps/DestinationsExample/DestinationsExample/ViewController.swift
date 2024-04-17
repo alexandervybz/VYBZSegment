@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import Segment
+import VYBZSegment
 import AppsFlyerLib
 
 enum SpecEvent: Int {
